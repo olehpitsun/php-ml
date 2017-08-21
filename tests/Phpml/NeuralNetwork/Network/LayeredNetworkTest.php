@@ -7,7 +7,7 @@ namespace tests\Phpml\NeuralNetwork\Network;
 use Phpml\NeuralNetwork\Layer;
 use Phpml\NeuralNetwork\Network\LayeredNetwork;
 use Phpml\NeuralNetwork\Node\Input;
-use PHPUnit\Framework\TestCase;
+//use PHPUnit\Framework\TestCase;
 
 class LayeredNetworkTest extends TestCase
 {
